@@ -1,0 +1,9 @@
+.cproject
+.project
+.settings
+Release/bin
+Debug
+Debug/src
+Debug/bin
+*.o
+
